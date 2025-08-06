@@ -1,24 +1,12 @@
-# uroboros
+Diverse codes in here!
 
-## Project setup
-```
-npm install
-```
+1.vuejs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  1. Uroboros
+     ==> Creating lizard cafe for my friend.
+     TODOs:
+           1.Fix App.vue not appearing
+           2.Create Shopping function
+           3. And more...
+     
+  2. ...
