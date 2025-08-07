@@ -3,7 +3,7 @@
     <h1 class="goods-text">상품</h1>
     <div class="goods-list">
       <div class="goods-item" v-for="n in 4" :key="n">
-        <div class="product_image" :style="{ backgroundImage: 'url(/images/default_image.jpg)' }"></div>
+        <div class="product_image" :style="{ backgroundImage: 'url(https://raw.githubusercontent.com/minkim9766/Something/refs/heads/master/public/images/default_image.jpg)' }"></div>
         <div class="product_properties">
           <h3 class="product-name">Product ID</h3>
           <h6 class="product-type">Product TYPE</h6>
