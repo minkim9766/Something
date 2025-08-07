@@ -1,7 +1,7 @@
 <template>
   <div class="help">
     <div class="help-title">
-      <img class="help-title-icon" src="/images/info.png" alt="HELP">
+      <img class="help-title-icon" src="https://raw.githubusercontent.com/minkim9766/Something/refs/heads/master/docs/images/info.png" alt="HELP">
       <h2 class="help-text">도움말</h2>
     </div>
     <div class="help-content">

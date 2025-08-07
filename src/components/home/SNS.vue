@@ -18,7 +18,7 @@ import { motion } from "motion-v"
     </motion.div>
   </div>
   <div class="logo">
-    <img class="logo-image" src="/images/logo.png" alt="도마뱀 카페 로고">
+    <img class="logo-image" src="https://raw.githubusercontent.com/minkim9766/Something/refs/heads/master/docs/images/logo.png" alt="도마뱀 카페 로고">
   </div>
 </template>
 

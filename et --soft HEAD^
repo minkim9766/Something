@@ -1,0 +1,39 @@
+[33mcommit 9db7fdb12b12af3f405e4855852d65f312173859[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: minkim9766 <musicminseo9766@gmail.com>
+Date:   Thu Aug 7 21:39:51 2025 +0900
+
+    build 1
+
+[33mcommit 129c3759384103728f9c0bbb0cc800d329d1c4ff[m
+Author: minkim9766 <musicminseo9766@gmail.com>
+Date:   Thu Aug 7 21:38:36 2025 +0900
+
+    build 1
+
+[33mcommit 7a16d1d1101b26dd6ae1722f2eaa1b8f30e8cfe5[m
+Author: minkim9766 <musicminseo9766@gmail.com>
+Date:   Thu Aug 7 21:29:55 2025 +0900
+
+    fixed missing images
+
+[33mcommit 86561a28206474a913f7ba681ea7c4b7bd4cf0f5[m
+Author: minkim9766 <musicminseo9766@gmail.com>
+Date:   Thu Aug 7 21:10:10 2025 +0900
+
+    Revert "Revert "fixed missing images""
+    
+    This reverts commit e7d5e93a2a2497e9f8384c9780f413e29ac33aed.
+
+[33mcommit e7d5e93a2a2497e9f8384c9780f413e29ac33aed[m
+Author: minkim9766 <musicminseo9766@gmail.com>
+Date:   Thu Aug 7 21:08:44 2025 +0900
+
+    Revert "fixed missing images"
+    
+    This reverts commit 6bad5497ab6afe2c65d14ef97cf7c0544cafa2b5.
+
+[33mcommit 6bad5497ab6afe2c65d14ef97cf7c0544cafa2b5[m
+Author: minkim9766 <musicminseo9766@gmail.com>
+Date:   Thu Aug 7 21:03:04 2025 +0900
+
+    fixed missing images
