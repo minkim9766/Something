@@ -2,7 +2,7 @@
   <div>
     <Banner />
     <NavBar />
-    <div class="main-stage">
+    <div class="main-stage" style="overflow-y:auto">
       <div class="upper-stage" >
         <SNS />
         <Help />
