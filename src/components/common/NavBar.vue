@@ -16,10 +16,10 @@
       </div>
 
     </motion.div>
-    <div class="extra-nav">
-      <router-link class="nav-link" to="/login">Login</router-link>
-      <router-link class="nav-link" to="/register">Register</router-link>
-    </div>
+<!--    <div class="extra-nav">-->
+<!--      <router-link class="nav-link" to="/login">Login</router-link>-->
+<!--      <router-link class="nav-link" to="/register">Register</router-link>-->
+<!--    </div>-->
   </div>
 </template>
 
