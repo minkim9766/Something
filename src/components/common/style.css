@@ -25,6 +25,7 @@ body {
     display: flex;
     align-items: center;
     vertical-align: center;
+    horiz-align: center;
     position: relative;
     background: #1b4dd9;
     flex-direction: column;

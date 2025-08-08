@@ -10,6 +10,7 @@ a {
     height: 40%;
     justify-content: center;
     horiz-align: center;
+    overflow-y: auto;
 }
 
 .sns {
